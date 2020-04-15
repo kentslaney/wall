@@ -1,0 +1,7 @@
+/slides
+/images
+/slides.js
+
+# vim
+[._]sw[a-p]
+[._]*.sw[a-p]
